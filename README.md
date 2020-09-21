@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mehrab
 #### you are welcome!
-![you are welcome!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![you are welcome!](https://twitter.com/mehrabb74/header_photo)
 
 i am programmer & web developer.
 live in TEHRAN.
