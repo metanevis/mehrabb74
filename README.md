@@ -1,11 +1,10 @@
-# Hello & Welcome
-## My Name Is Mehrab
-
+### Hello & Welcome
+>My Name Is Mehrab
 >i'm a programmer & web developer.
 >live in TEHRAN.
 >1995
 
-Skills: `HTML` / MD / CSS / JS / LINUX / 
+Skills: `HTML` / `MD` / `CSS` / `JS` / `LINUX` / 
 
 - 🔭 I’m currently working on www.metanevis.com 
 
