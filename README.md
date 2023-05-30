@@ -12,10 +12,6 @@
 
 >My Personal Weblog is www.mehrabb74.ir
 
->I’m currently working on www.metanevis.com 
+>I’m currently working on www.metanevis.ir 
 
 also you can reach me by these platforms too 👇🏻
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehrabb74/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mehrabb74)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://mehrabb74.t.me/mehrabb74)  
