@@ -10,8 +10,6 @@
 
 >`HTML` `MD` `CSS` `JS` `LINUX`
 
->My Personal Weblog is www.mehrabb74.ir
-
 >I’m currently working on www.metanevis.ir 
 
 also you can reach me by these platforms too 👇🏻
